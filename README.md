@@ -8,3 +8,6 @@
 
 ## Technical Details
 1. **Tip Time** is build for android phones using **Android Studio IDE** and **Kotlin** programming language.
+
+## App Screenshots
+![App Screenshot](https://github.com/Vijay9610/Tip-Time/blob/main/App_Screenshot.jpg)
